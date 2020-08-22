@@ -10,7 +10,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 The code should run with no issues using Python versions 3.*.
 
 ## Project Motivation
-This project has resulted from my preparations for the interviews for the SWE at Google. 
+This project has resulted from my preparations for the interviews for the SWE role at Google. 
 Hope that it will help you land a job at your dream company.
 
 ## File Descriptions
