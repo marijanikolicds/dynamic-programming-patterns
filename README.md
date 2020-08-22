@@ -4,7 +4,6 @@
 * Installation
 * Project Motivation
 * File Descriptions
-* Results
 * Licensing, Authors, and Acknowledgements
 
 ## Installation
@@ -23,9 +22,6 @@ This project contains the implementation of different dynamic programming patter
 * Knapsack problem
 * Fibonacci
 * Climbing stairs
-
-## Results
-Some of the topics are discussed in the posts [here](https://medium.com/@marija.e2/).
 
 
 Feel free to use the code here as you would like!
